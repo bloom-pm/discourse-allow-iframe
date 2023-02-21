@@ -1,0 +1,1 @@
+# discourse-allow-iframe
